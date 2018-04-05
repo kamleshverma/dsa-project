@@ -1,0 +1,11 @@
+In recent years the subject of computer programming has been recognized as a discipline whose mastery
+is fundamental and crucial to the success of many engineering projects and which is amenable to scientific
+treatement and presentation. It has advanced from a craft to an academic discipline. The initial outstanding
+contributions toward this development were made by E.W. Dijkstra and C.A.R. Hoare. Dijkstra's Notes
+on Structured Programming [1] opened a new view of programming as a scientific subject and
+intellectual challenge, and it coined the title for a "revolution" in programming. Hoare's Axiomatic Basis of
+Computer Programming [2] showed in a lucid manner that programs are amenable to an exacting
+analysis based on mathematical reasoning. Both these papers argue convincingly that many programmming
+errors can be prevented by making programmers aware of the methods and techniques which they hitherto
+applied intuitively and often unconsciously. These papers focused their attention on the aspects of
+composition and analysis of programs, or more explicitly, on the structure of algorithms represented by
